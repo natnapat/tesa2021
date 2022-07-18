@@ -29,6 +29,15 @@ We brainstormed to create sprint backlog (a day per sprint). <br />
 TensorflowLite on Raspberry pi [video](https://youtu.be/5YDpVrRVxgk) <br />
 For project demo video, click [here](https://youtu.be/aTOO-XAYvOc)
 
+First, You have to download a test video from this link. <br />
+Dependencies are provided in requirements.txt <br />
+
+To run it: <br />
+
+```bash
+ python3 TFlite_new.py 
+```
+
 ![alt](out_put_0.jpg)
 ![alt](out_put_1.jpg)
 ![alt](line_notify.png)
