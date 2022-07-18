@@ -42,5 +42,8 @@ To run it: <br />
 ![alt](out_put_1.jpg)
 ![alt](line_notify.png)
 
+To capture : press w
+To quit: press q 
+
 
 
