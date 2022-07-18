@@ -15,9 +15,9 @@ Hardware: STM32 board, Raspberry Pi 4 <br />
 Backend: Laravel <br />
 ML: tensorflow, opencv <br />
 
-For project demo video, click [here](https://youtu.be/aTOO-XAYvOc)
+For project demo video, click [here](https://youtu.be/aTOO-XAYvOc) <br />
 
-We brainstormed to create sprint backlog (a day per sprint).
+We brainstormed to create sprint backlog (a day per sprint). <br />
 
 
 ![alt](User_story2.png)
@@ -26,11 +26,12 @@ We brainstormed to create sprint backlog (a day per sprint).
  For the ML part, We prepared and trained lime images to run object detection on Raspberry pi 4. Then, we added some logic to classify and count limes on conveyor. If there is a small-sized lime (compare to marker), raspberryPi will publish action to STM32 board via MQTT and also LINE notify.   
 
 
-TensorflowLite on Raspberry pi [video](https://youtu.be/5YDpVrRVxgk)
+TensorflowLite on Raspberry pi [video](https://youtu.be/5YDpVrRVxgk) <br />
 For project demo video, click [here](https://youtu.be/aTOO-XAYvOc)
 
 ![alt](out_put_0.jpg)
 ![alt](out_put_1.jpg)
+![alt](line_notify.png)
 
 
 
